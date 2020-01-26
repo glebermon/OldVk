@@ -1,0 +1,15 @@
+//
+//  myGroupsModel.swift
+//  inetsKirillL
+//
+//  Created by Глеб on 17/11/2018.
+//  Copyright © 2018 Глеб. All rights reserved.
+//
+
+import Foundation
+import UIKit
+
+struct Groups {
+    let name : String
+    let photo : UIImage
+}
